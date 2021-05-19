@@ -4,7 +4,7 @@ import ReactGA from "react-ga";
  * 喜马拉雅广告链接
  */
 export const ximalayaLink =
-  "https://m.ximalaya.com/sleepaudio/6?mixedTrackIds=331526646&utm_source=smxkt";
+  "https://m.ximalaya.com/sleepaudio/6?mixedTrackIds=331526646";
 
 /**
  * 跳转至喜马拉雅

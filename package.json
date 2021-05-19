@@ -4,9 +4,9 @@
   "version": "0.1.2",
   "private": true,
   "author": {
-    "url": "https://www.yunyoujun.cn",
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun"
+    "url": "https://iyu.pub",
+    "email": "0@ieei.win",
+    "name": "听风行"
   },
   "scripts": {
     "dev": "yarn start",
@@ -40,7 +40,7 @@
     "type": "git",
     "url": "https://github.com/YunYouJun/air-conditioner"
   },
-  "homepage": "https://ac.yunyoujun.cn/",
+  "homepage": "https://air.iyu.pub/",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",

@@ -9,6 +9,6 @@ export const isProd = process.env.NODE_ENV === "production";
  */
 export function getAssetsUrl(url: string) {
   const jsdelivrCDN =
-    "https://cdn.jsdelivr.net/gh/YunYouJun/air-conditioner/public";
+    "https://cdn.jsdelivr.net/gh/yuolvv/air-conditioner/public";
   return (isProd ? jsdelivrCDN : process.env.PUBLIC_URL) + url;
 }
